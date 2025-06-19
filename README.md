@@ -9,4 +9,8 @@ Check inside the README for:
 - 🚀 Deployment instructions  
 - 💾 Download & setup guidance  
 
+[![Vercel](https://vercelbadge.vercel.app/api/whizzion957/DMI.AI_Design_Made_Intelligent_Frontend)](https://dmi-ai-design-made-intelligent-fron.vercel.app/)
+![License](https://img.shields.io/github/license/Whizzion957/DMI.AI_Design_Made_Intelligent_Frontend)
+![Last Commit](https://img.shields.io/github/last-commit/Whizzion957/DMI.AI_Design_Made_Intelligent_Frontend)
+
 > Designed for speed, built for scalability.
