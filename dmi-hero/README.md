@@ -4,7 +4,7 @@ A beautifully animated, responsive hero section built with **React**, **Vite**, 
 
 ## 📸 Preview
 
-![Preview](./public/preview.png)
+![Preview](./public/Screenshot 2025-06-19 192630.png)
 
 ---
 
