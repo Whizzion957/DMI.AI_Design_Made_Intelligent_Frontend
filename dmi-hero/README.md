@@ -69,7 +69,7 @@ The production-ready files will be in the `dist/` folder.
 2. Go to [vercel.com](https://vercel.com)
 3. Import your repo, set:
    - Framework: **Vite**
-   - Output Directory: **dist**
+   - Output Directory: **dmi-hero**
 4. Click **Deploy**
 
 ---
