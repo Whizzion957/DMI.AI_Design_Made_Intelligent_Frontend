@@ -13,8 +13,9 @@ A beautifully animated, responsive hero section built with **React**, **Vite**, 
 - Modern Hero Section with animated emojis, floating circles
 - Responsive design
 - Clean UI with Tailwind CSS
+- Colour Change on Mouse Hover Design Made Intelligent
 - Smooth scroll and reveal animations
-- Click ripple effects using custom hook
+- Click ripple effects using a custom hook
 - Scroll-based visibility using Intersection Observer
 
 ---
