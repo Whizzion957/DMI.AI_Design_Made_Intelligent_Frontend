@@ -1,12 +1,94 @@
-# React + Vite
+# 🚀 DMI Hero - Frontend Challenge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully animated, responsive hero section built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
 
-Currently, two official plugins are available:
+## 📸 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Preview](./public/preview.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Features
+
+- Modern Hero Section with animated emojis, floating circles
+- Responsive design
+- Clean UI with Tailwind CSS
+- Smooth scroll and reveal animations
+- Click ripple effects using custom hook
+- Scroll-based visibility using Intersection Observer
+
+---
+
+## 🔧 Tech Stack
+
+- ⚛️ React + Vite
+- 🎨 Tailwind CSS
+- 🔍 Custom Hooks (`useRipple`, `useScrollReveal`)
+- 🌐 Deployed on Vercel
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/dmi-hero.git
+cd dmi-hero
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start local dev server
+
+```bash
+npm run dev
+```
+
+---
+
+## 🔄 Build for Production
+
+```bash
+npm run build
+```
+
+The production-ready files will be in the `dist/` folder.
+
+---
+
+## ☁️ Deployment
+
+### Option 1: Deploy to **Vercel**
+
+1. Push your project to GitHub
+2. Go to [vercel.com](https://vercel.com)
+3. Import your repo, set:
+   - Framework: **Vite**
+   - Output Directory: **dist**
+4. Click **Deploy**
+
+---
+
+## 📁 Folder Structure
+
+```
+src/
+├── assets/
+├── components/
+│   ├── Hero1.jsx
+│   ├── LovableBadge.jsx
+├── App.jsx
+├── main.jsx
+├── index.css
+```
+
+---
+
+## 📃 License
+
+MIT © [Aadit Kumar Sahoo](https://github.com/Whizzion957)
